@@ -43,4 +43,4 @@
 
 自适应播放：无论设备大小，自动调整播放模式，确保最佳的观看效果。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/su4569/123518 ）</span>
